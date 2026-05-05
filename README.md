@@ -1,10 +1,10 @@
  # Wine Quality Analysis Using MySQL
 A beginner-friendly SQL portfolio project exploring how chemical properties influence wine quality.
 
- #Project Overview
+ # Project Overview
 This project analyzes a red wine dataset to understand how factors like alcohol, volatile acidity, and sulphates affect wine quality.
 
-#Dataset
+# Dataset
 Records: 1,599
 Features: 12 numerical variables
 Target: quality
